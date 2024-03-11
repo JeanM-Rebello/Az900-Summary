@@ -10,4 +10,4 @@ This summary serves merely as a means of comparing understandings and should not
 
 Below are the links to the summary topics:
 
-[Describe Cloud Concepts]()
+[Describe Cloud Concepts](https://github.com/JeanM-Rebello/Az900-Summary/blob/main/docs/DescribeCloudConcepts/DescribeCloudConcepts.md)
