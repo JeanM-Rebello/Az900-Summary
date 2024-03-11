@@ -1,4 +1,4 @@
-[Return to choice module page]()
+[Return to choice module page](https://github.com/JeanM-Rebello/Az900-Summary/blob/main/docs/DescribeCloudConcepts/DescribeCloudConcepts.md)
 
 # Describe Cloud Service Types
 
@@ -39,4 +39,4 @@ SaaS is known for its cost-effectiveness, as organizations only pay for the serv
 
 ---------
 
-[Advance to the next module]()
+[Advance to the next module](https://github.com/JeanM-Rebello/Az900-Summary)
