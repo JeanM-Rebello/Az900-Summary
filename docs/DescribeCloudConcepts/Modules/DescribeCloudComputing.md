@@ -1,4 +1,4 @@
-[Return to choice module page]()
+[Return to choice module page](https://github.com/JeanM-Rebello/Az900-Summary/blob/main/docs/DescribeCloudConcepts/DescribeCloudConcepts.md)
 
 # Describe Cloud Computing
 
@@ -73,4 +73,4 @@ The consumption-based model in Azure refers to a flexible, pay-as-you-go pricing
 Instead of initial fixed costs, customers pay for the computing resources and services they consume, allowing greater flexibility, cost efficiency and exchanging capital expenses (CapEx), arising from the purchase and maintenance of a data center structure, for operational expenses ( OpEx) allowing greater room for maneuver for the company.
 
 -----------
-[Advance to the next module]()
+[Advance to the next module](https://github.com/JeanM-Rebello/Az900-Summary/blob/main/docs/DescribeCloudConcepts/Modules/DescribeTheBenefitsOfUsingCloudServices.md)
