@@ -1,4 +1,4 @@
-[Return to choice module page]()
+[Return to choice module page](https://github.com/JeanM-Rebello/Az900-Summary/blob/main/docs/DescribeCloudConcepts/DescribeCloudConcepts.md)
 
 # Describe the benefits of using cloud services
 
@@ -79,4 +79,4 @@ With cloud services, organizations can efficiently monitor, configure, and maint
 
 -------------
 
-[Advance to the next module]()
+[Advance to the next module](https://github.com/JeanM-Rebello/Az900-Summary/blob/main/docs/DescribeCloudConcepts/Modules/DescribeCloudServiceTypes.md)
